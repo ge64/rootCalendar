@@ -24,3 +24,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/chatty-calendar/node_modules/
+/.cache/
